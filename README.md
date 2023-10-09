@@ -1,6 +1,6 @@
 # Lavalust Crud
 Output:
-![image](https://github.com/K1ngJJ/Lavalust_Crd/assets/144676325/57c539e1-1c59-4c34-88d5-44a4c081ba6e)
+![image](https://github.com/K1ngJJ/LavaLust_Crd/assets/144676325/5146a84e-f34a-4fd5-a32e-38588995f798)
 Name: Pacheco, King JayJay A.
 
 Section: 3-F1
